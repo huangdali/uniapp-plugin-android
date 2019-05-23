@@ -13,7 +13,9 @@
 
 点击按钮：
 ```html
-<button type="primary" plain="true" @click="showRichAlert()">通过Toast显示“hello uniapp for android plugin”</button>
+<button type="primary" plain="true" @click="showRichAlert()">
+通过Toast显示“hello uniapp for android plugin”
+</button>
 ```
 
 
